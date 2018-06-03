@@ -1,0 +1,8 @@
+*.text
+*.txt
+dev
+*.pred
+*.zip
+*.pyc
+test
+train
